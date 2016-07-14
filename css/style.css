@@ -1,0 +1,34 @@
+h1 {
+  color:red; text-align:center;
+}
+h5 {
+  color:black; text-align:;
+}
+p{
+  color:blue; text-align:center;
+}
+#p1{
+  color:red; text-align:center;
+}
+#pic1{
+  border:2px;
+  border-style:solid;
+  border-color:red;
+  margin: aut;
+  display:block;
+}
+#pic2{
+    border:2px;
+  border-style:soli;
+  border-color:blue;
+  margin: auto;
+  display:block;
+}
+
+figure{
+  display:inline-block;
+}
+
+figcaption {
+  text-align:center;
+}
